@@ -1,0 +1,29 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor & IDE Directories
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+
+# Temporary & Log files
+*.log
+*.tmp
+*.bak
+.env
+.env.local
+
+# Dependency and cache directories (if expanded with scripts)
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+env/
+dist/
+build/
